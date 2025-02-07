@@ -1,6 +1,6 @@
 // Task 1: Say Something in the console.
 
-console.log("Hello Everyone!")
+console.log("Something")
 
 // Here is another comment
 
