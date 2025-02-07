@@ -5,7 +5,10 @@ console.log("Hello Everyone!")
 // Here is another comment
 
 // Task 2: Create a loop using an array
+// Using a for... of loop
 
 let myArray = ['blue','black','red'];
 
-myArray.forEach(color => console.log(color))
+for (const color of myArray) {
+	console.log(color.toUpperCase()) // Make string to uppercase
+}
